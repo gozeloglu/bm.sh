@@ -15,7 +15,7 @@ I always use terminal while making development. It stays open everytime. I compi
 ## Run
 
 ```shell
-$ git clone git@github.com:gozeloglu/bm.git     # Clone the repository
+$ git clone https://github.com/gozeloglu/bm.sh.git     # Clone the repository
 $ cd bm/    # Change the directory
 $ ./bm --help   # Make sure that script is executable
 ```
